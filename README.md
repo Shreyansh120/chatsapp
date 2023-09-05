@@ -1,4 +1,4 @@
-# ChatRoom App 
+# ChatsApp 
 Realtime Chat App with websockets using Node.js, Express and Socket.io
 
 ## Usage 
